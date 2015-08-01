@@ -21,5 +21,5 @@
   "dependencies"  : {
     "sockjs-client" : "sockjs/sockjs-client"
   },
-  "private"       : true
+  "private"       : false
 }
